@@ -1,0 +1,219 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Invitation_Filled_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-191554/backstop_default_Invitation_Filled_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Invitation_Filled_0_document_0_screenshots.png",
+        "label": "Invitation Filled",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/invitation_filled.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 85.52272727272727,
+          "misMatchPercentage": "85.52",
+          "analysisTime": 80
+        },
+        "diffImage": "../bitmaps_test/20221118-191554/failed_diff_backstop_default_Invitation_Filled_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Invitation_List_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-191554/backstop_default_Invitation_List_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Invitation_List_0_document_0_screenshots.png",
+        "label": "Invitation List",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/invitation_list.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 12.637272727272727,
+          "misMatchPercentage": "12.64",
+          "analysisTime": 82
+        },
+        "diffImage": "../bitmaps_test/20221118-191554/failed_diff_backstop_default_Invitation_List_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Invitation_Error_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-191554/backstop_default_Invitation_Error_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Invitation_Error_0_document_0_screenshots.png",
+        "label": "Invitation Error",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/invitation_error.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 83.09681818181818,
+          "misMatchPercentage": "83.10",
+          "analysisTime": 84
+        },
+        "diffImage": "../bitmaps_test/20221118-191554/failed_diff_backstop_default_Invitation_Error_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Login_Admin_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-191554/backstop_default_Login_Admin_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Login_Admin_0_document_0_screenshots.png",
+        "label": "Login Admin",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/login_admin.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 10.87409090909091,
+          "misMatchPercentage": "10.87",
+          "analysisTime": 85
+        },
+        "diffImage": "../bitmaps_test/20221118-191554/failed_diff_backstop_default_Login_Admin_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Bio_Filled_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-191554/backstop_default_Bio_Filled_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Bio_Filled_0_document_0_screenshots.png",
+        "label": "Bio Filled",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/bio_less_200_characters.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Full_Name_Changed_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-191554/backstop_default_Full_Name_Changed_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Full_Name_Changed_0_document_0_screenshots.png",
+        "label": "Full Name Changed",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/full_name_changed_no_save.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 39.87015151515151,
+          "misMatchPercentage": "39.87",
+          "analysisTime": 80
+        },
+        "diffImage": "../bitmaps_test/20221118-191554/failed_diff_backstop_default_Full_Name_Changed_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Refresh_Profile_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-191554/backstop_default_Refresh_Profile_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Refresh_Profile_0_document_0_screenshots.png",
+        "label": "Refresh Profile",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/refresh_profile.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 39.87015151515151,
+          "misMatchPercentage": "39.87",
+          "analysisTime": 83
+        },
+        "diffImage": "../bitmaps_test/20221118-191554/failed_diff_backstop_default_Refresh_Profile_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Ghost_settings_general_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-191554/backstop_default_Ghost_settings_general_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Ghost_settings_general_0_document_0_screenshots.png",
+        "label": "Ghost settings general",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/navigate_ghost_settings_general.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 4.973484848484849,
+          "misMatchPercentage": "4.97",
+          "analysisTime": 76
+        },
+        "diffImage": "../bitmaps_test/20221118-191554/failed_diff_backstop_default_Ghost_settings_general_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}

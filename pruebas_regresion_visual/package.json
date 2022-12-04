@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "chai": "^4.3.7",
+    "kraken-node": "^1.0.24",
+    "playwright": "^1.28.0",
+    "resemblejs": "^4.1.0"
+  },
+  "scripts": {
+    "kraken": "./node_modules/kraken-node/bin/kraken-node run",
+    "cypress": "./node_modules/.bin/cypress open",
+    "resemble": "node ./resemble/resemble_profile.js",
+    "resemble_results": "open ./results_resemble/report.html", 
+    "preresemble_all": "npm run resemble",
+    "resemble_all": "npm run resemble_results"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^11.0.1"
+  }
+}

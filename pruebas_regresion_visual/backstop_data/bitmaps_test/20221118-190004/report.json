@@ -1,0 +1,40 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Invitation_Filled_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-190004/backstop_default_Invitation_Filled_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Invitation_Filled_0_document_0_screenshots.png",
+        "label": "Invitation Filled",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/invitation_new/invitation_filled.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "error": "Reference file not found /ingenio/Dev/uniandes/backstopjs/backstop_data/bitmaps_reference/backstop_default_Invitation_Filled_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Invitation_List_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-190004/backstop_default_Invitation_List_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Invitation_List_0_document_0_screenshots.png",
+        "label": "Invitation List",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/invitation_new/invitation_list.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "error": "Reference file not found /ingenio/Dev/uniandes/backstopjs/backstop_data/bitmaps_reference/backstop_default_Invitation_List_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}

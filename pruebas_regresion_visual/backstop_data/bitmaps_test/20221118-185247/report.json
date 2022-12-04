@@ -1,0 +1,24 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0__0_screenshots.png",
+        "test": "../bitmaps_test/20221118-185247/backstop_default_BackstopJS_Homepage_0__0_screenshots.png",
+        "selector": "",
+        "fileName": "backstop_default_BackstopJS_Homepage_0__0_screenshots.png",
+        "label": "BackstopJS Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./scenarios/invitation_new/invitation_filled.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "engineErrorMsg": "net::ERR_FILE_NOT_FOUND at file:///ingenio/Dev/uniandes/backstopjs/scenarios/invitation_new/invitation_filled.png",
+        "error": "Reference file not found /ingenio/Dev/uniandes/backstopjs/backstop_data/bitmaps_reference/backstop_default_BackstopJS_Homepage_0__0_screenshots.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}

@@ -1,0 +1,169 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Enter_Admin_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-224415/backstop_default_Enter_Admin_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Enter_Admin_0_document_0_screenshots.png",
+        "label": "Enter Admin",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/navigate_ghost_admin.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "error": "Reference file not found /ingenio/Dev/uniandes/backstopjs/backstop_data/bitmaps_reference/backstop_default_Enter_Admin_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Login_Admin_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-224415/backstop_default_Login_Admin_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Login_Admin_0_document_0_screenshots.png",
+        "label": "Login Admin",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/login_admin.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 76.23742424242424,
+          "misMatchPercentage": "76.24",
+          "analysisTime": 47
+        },
+        "diffImage": "../bitmaps_test/20221118-224415/failed_diff_backstop_default_Login_Admin_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_General_Settings_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-224415/backstop_default_General_Settings_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_General_Settings_0_document_0_screenshots.png",
+        "label": "General Settings",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/navigate_ghost_settings_general.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "error": "Reference file not found /ingenio/Dev/uniandes/backstopjs/backstop_data/bitmaps_reference/backstop_default_General_Settings_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Navigation_Settings_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-224415/backstop_default_Navigation_Settings_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Navigation_Settings_0_document_0_screenshots.png",
+        "label": "Navigation Settings",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/navigate_ghost_settings_navigation.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "error": "Reference file not found /ingenio/Dev/uniandes/backstopjs/backstop_data/bitmaps_reference/backstop_default_Navigation_Settings_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Main_Website_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-224415/backstop_default_Main_Website_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Main_Website_0_document_0_screenshots.png",
+        "label": "Main Website",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/main_website.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "error": "Reference file not found /ingenio/Dev/uniandes/backstopjs/backstop_data/bitmaps_reference/backstop_default_Main_Website_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Staff_Settings_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-224415/backstop_default_Staff_Settings_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Staff_Settings_0_document_0_screenshots.png",
+        "label": "Staff Settings",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/navigate_ghost_settings_staff.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "error": "Reference file not found /ingenio/Dev/uniandes/backstopjs/backstop_data/bitmaps_reference/backstop_default_Staff_Settings_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Invitation_filled_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-224415/backstop_default_Invitation_filled_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Invitation_filled_0_document_0_screenshots.png",
+        "label": "Invitation filled",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/invitation_filled.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "error": "Reference file not found /ingenio/Dev/uniandes/backstopjs/backstop_data/bitmaps_reference/backstop_default_Invitation_filled_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Invitation_list_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-224415/backstop_default_Invitation_list_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Invitation_list_0_document_0_screenshots.png",
+        "label": "Invitation list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/invitation_list.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "error": "Reference file not found /ingenio/Dev/uniandes/backstopjs/backstop_data/bitmaps_reference/backstop_default_Invitation_list_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Invitation_error_0_document_0_screenshots.png",
+        "test": "../bitmaps_test/20221118-224415/backstop_default_Invitation_error_0_document_0_screenshots.png",
+        "selector": "document",
+        "fileName": "backstop_default_Invitation_error_0_document_0_screenshots.png",
+        "label": "Invitation error",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./backstop_data/scenarios/invitation_error.png",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "screenshots",
+        "error": "Reference file not found /ingenio/Dev/uniandes/backstopjs/backstop_data/bitmaps_reference/backstop_default_Invitation_error_0_document_0_screenshots.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}
